@@ -2,10 +2,15 @@ Dashboard de Gestão de Contratos
 
 Tecnologias:
 
-Power BI
-DAX
-Power Query
-Excel
+Tecnologias e conceitos aplicados
+
+- Power BI Desktop
+- DAX
+- Power Query
+- Modelagem estrela
+- Tabela calendário
+- KPIs executivos
+- Data Storytelling
 
 Indicadores:
 
