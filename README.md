@@ -17,8 +17,7 @@ Próximos Vencimentos
 Top Fornecedores
 
 Dashboard
-
-[<img width="995" height="552" alt="Gestao de contratos -" src="https://github.com/user-attachments/assets/dd0fe238-4f90-40ab-b3c0-25a3dcccac67" />](https://app.powerbi.com/links/PlSoHeY4Iw?ctid=2b787135-ca3a-486c-bd0a-f6015fbf39b8&pbi_source=linkShare)
+https://app.powerbi.com/groups/me/reports/f5f30145-4f31-4f46-bf9a-333306dff804?ctid=f310b526-e195-4805-a55e-67e28f2fefdb&pbi_source=linkShare
 
 Objetivo
 
