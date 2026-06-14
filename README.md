@@ -17,7 +17,10 @@ Próximos Vencimentos
 Top Fornecedores
 
 Dashboard
-https://app.powerbi.com/groups/me/reports/f5f30145-4f31-4f46-bf9a-333306dff804?ctid=f310b526-e195-4805-a55e-67e28f2fefdb&pbi_source=linkShare
+
+<img width="706" height="391" alt="image" src="https://github.com/user-attachments/assets/2e4d3878-3c86-4f59-9420-5608fb13a31a" />
+
+
 
 Objetivo
 
